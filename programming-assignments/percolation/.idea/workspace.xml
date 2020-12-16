@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="update project files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queues/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+    <toolWindowGroupBy>Class</toolWindowGroupBy>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jnJCZLC0cGmkuuwvrYBIjIUNf1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.third-parties/algs4.jar" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.23526448" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.263208" />
+  </component>
+  <component name="RunManager" selected="Application.InteractivePercolationVisualizer">
+    <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="MAIN_CLASS_NAME" value="InteractivePercolationVisualizer" />
+      <module name="percolation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="percolation" />
+      <option name="PROGRAM_PARAMETERS" value="200 100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="percolation" />
+      <option name="PROGRAM_PARAMETERS" value="input20.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.InteractivePercolationVisualizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InteractivePercolationVisualizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1605863491713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605863491713</updated>
+      <workItem from="1605863493214" duration="596000" />
+      <workItem from="1605864106579" duration="37000" />
+      <workItem from="1605864973823" duration="33000" />
+      <workItem from="1605906414247" duration="5000" />
+      <workItem from="1606161816278" duration="41000" />
+      <workItem from="1606166183968" duration="82000" />
+      <workItem from="1606166352065" duration="284000" />
+      <workItem from="1606166713267" duration="66000" />
+      <workItem from="1606506541584" duration="203000" />
+      <workItem from="1606507230570" duration="144000" />
+      <workItem from="1606663024176" duration="618000" />
+      <workItem from="1607624942974" duration="96000" />
+      <workItem from="1607681832113" duration="10000" />
+      <workItem from="1607696666579" duration="68000" />
+      <workItem from="1607797346200" duration="32000" />
+      <workItem from="1607797593483" duration="35000" />
+      <workItem from="1607798393498" duration="971000" />
+      <workItem from="1607799558164" duration="46000" />
+      <workItem from="1607799743758" duration="19000" />
+      <workItem from="1607799969645" duration="60000" />
+      <workItem from="1607800114254" duration="41000" />
+      <workItem from="1607800250141" duration="20000" />
+      <workItem from="1607800421298" duration="32000" />
+      <workItem from="1607802829529" duration="458000" />
+      <workItem from="1608072290787" duration="778000" />
+      <workItem from="1608073090087" duration="751000" />
+      <workItem from="1608073875763" duration="121000" />
+      <workItem from="1608074053941" duration="168000" />
+      <workItem from="1608074247527" duration="70000" />
+      <workItem from="1608074331032" duration="492000" />
+      <workItem from="1608074840857" duration="40000" />
+      <workItem from="1608075146753" duration="85000" />
+      <workItem from="1608075247148" duration="78000" />
+      <workItem from="1608075339998" duration="26000" />
+      <workItem from="1608075417664" duration="869000" />
+      <workItem from="1608076598587" duration="118000" />
+      <workItem from="1608077220338" duration="37000" />
+      <workItem from="1608077333696" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove C++ and Python holders for a while">
+      <created>1607799032709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607799032710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change line endings from Windows (CRLF) to Unix (LF)">
+      <created>1607799231153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607799231153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="do minor changes in the implementations">
+      <created>1607799324924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607799324924</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix project structure">
+      <created>1607803205736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607803205736</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add percolation project files">
+      <created>1607803262539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607803262539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add queues project files">
+      <created>1607803278936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607803278936</updated>
+    </task>
+    <task id="LOCAL-00007" summary="do big cleanup">
+      <created>1608075939000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608075939000</updated>
+    </task>
+    <task id="LOCAL-00008" summary="file line endings">
+      <created>1608076042308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608076042308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update project files">
+      <created>1608076125664</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608076125664</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update project files">
+      <created>1608076200631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608076200631</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update project files">
+      <created>1608076289113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608076289113</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove C++ and Python holders for a while" />
+    <MESSAGE value="change line endings from Windows (CRLF) to Unix (LF)" />
+    <MESSAGE value="do minor changes in the implementations" />
+    <MESSAGE value="fix project structure" />
+    <MESSAGE value="add percolation project files" />
+    <MESSAGE value="add queues project files" />
+    <MESSAGE value="do big cleanup" />
+    <MESSAGE value="file line endings" />
+    <MESSAGE value="update project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project files" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
