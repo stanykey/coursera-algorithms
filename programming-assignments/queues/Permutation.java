@@ -7,6 +7,11 @@ import java.util.Iterator;
 
 public class Permutation {
     public static void main(String[] args) {
+        if (args.length == 0) {
+            StdOut.println("usage: Permutation <visible items count>");
+            return;
+        }
+
         final int needToShow = Integer.parseInt(args[0]);
 
         int totalCount = 0;
