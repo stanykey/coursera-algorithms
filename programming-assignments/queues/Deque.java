@@ -1,4 +1,5 @@
 import edu.princeton.cs.algs4.StdOut;
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -12,7 +13,7 @@ public class Deque<Item> implements Iterable<Item> {
 
     private Node head;
     private Node tail;
-    private int  size;
+    private int size;
 
     public boolean isEmpty() {
         return (size == 0);
@@ -108,8 +109,11 @@ public class Deque<Item> implements Iterable<Item> {
         StdOut.println("\teven number will add into head");
         Deque<Integer> container = new Deque<>();
         for (int i = 1; i <= testSize; i++) {
-            if (i % 2 > 0) container.addLast(i);
-            else           container.addFirst(i);
+            if (i % 2 > 0) {
+                container.addLast(i);
+            } else {
+                container.addFirst(i);
+            }
         }
         StdOut.printf("Deque size is %d\n\n", container.size());
 
@@ -122,9 +126,7 @@ public class Deque<Item> implements Iterable<Item> {
         StdOut.println("Test pop-methodsLet's test pop-methods: take head than tail then head and so on...");
         boolean takeHead = true;
         while (!container.isEmpty()) {
-            StdOut.println(takeHead
-                    ? container.removeFirst()
-                    : container.removeLast());
+            StdOut.println(takeHead ? container.removeFirst() : container.removeLast());
             takeHead = !takeHead;
         }
         StdOut.println();

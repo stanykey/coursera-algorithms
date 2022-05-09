@@ -61,8 +61,7 @@ public class PercolationStats {
     private void print() {
         StdOut.printf("mean                    = %.16f\n", mean());
         StdOut.printf("stddev                  = %.16f\n", mean());
-        StdOut.printf("95%% confidence interval = [%.16f, %.16f]\n", confidenceLo(),
-                      confidenceHi());
+        StdOut.printf("95%% confidence interval = [%.16f, %.16f]\n", confidenceLo(), confidenceHi());
     }
 
     // perform independent trials on an n-by-n grid

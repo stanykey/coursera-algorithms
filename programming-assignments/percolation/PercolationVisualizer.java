@@ -22,12 +22,10 @@ public class PercolationVisualizer {
                 if (percolation.isFull(row, col)) {
                     StdDraw.setPenColor(StdDraw.BOOK_LIGHT_BLUE);
                     opened++;
-                }
-                else if (percolation.isOpen(row, col)) {
+                } else if (percolation.isOpen(row, col)) {
                     StdDraw.setPenColor(StdDraw.WHITE);
                     opened++;
-                }
-                else {
+                } else {
                     StdDraw.setPenColor(StdDraw.BLACK);
                 }
                 StdDraw.filledSquare(col - 0.5, sideSize - row + 0.5, 0.45);
@@ -40,8 +38,7 @@ public class PercolationVisualizer {
         StdDraw.text(0.25 * sideSize, -0.025 * sideSize, opened + " open sites");
         if (percolation.percolates()) {
             StdDraw.text(0.75 * sideSize, -0.025 * sideSize, "percolates");
-        }
-        else {
+        } else {
             StdDraw.text(0.75 * sideSize, -0.025 * sideSize, "does not percolate");
         }
 
