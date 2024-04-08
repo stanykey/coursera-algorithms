@@ -9,12 +9,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src/percolation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/queues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test-inputs" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/test-inputs/hello" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/test-inputs/percolation" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/.lift" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="algs4" level="project" />
-    <orderEntry type="library" name="introcs" level="project" />
   </component>
 </module>
