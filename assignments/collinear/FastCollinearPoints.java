@@ -86,7 +86,7 @@ public class FastCollinearPoints {
             }
         }
 
-        Point[] prepared = makeShallowCopy(points, 0);
+        Point[] prepared = Arrays.copyOf(points, points.length);
         Arrays.sort(prepared);
 
         // Check for duplicate points after sorting
@@ -97,13 +97,6 @@ public class FastCollinearPoints {
         }
 
         return prepared;
-    }
-
-    private static Point[] makeShallowCopy(Point[] points, int startIndex) {
-        // Creates a shallow copy of the specified array of Points, starting from the given startIndex.
-        final Point[] copy = new Point[points.length - startIndex];
-        System.arraycopy(points, startIndex, copy, 0, copy.length);
-        return copy;
     }
 
     public int numberOfSegments() {
